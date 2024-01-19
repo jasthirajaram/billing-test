@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="689493b4-7591-410a-beef-1c7a41de7edc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/components/Azure/AzureSelector.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/components/Azure/AzureSelector.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/components/CustomBarChart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/components/CustomBarChart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/components/CustomPieChart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/components/CustomPieChart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/components/Gcp/GcpSelector.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/components/Gcp/GcpSelector.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/components/ServiceSelector.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/components/ServiceSelector.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/pages/AwsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/pages/AwsPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/pages/AzurePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/pages/AzurePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/pages/GcpPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/pages/GcpPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aws-azure/src/services/Services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../aws-azure/src/services/Services.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure-service/src/main/java/com/azure/controller/AzureController.java" beforeDir="false" afterPath="$PROJECT_DIR$/azure-service/src/main/java/com/azure/controller/AzureController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure-service/src/main/java/com/azure/service/AzureService.java" beforeDir="false" afterPath="$PROJECT_DIR$/azure-service/src/main/java/com/azure/service/AzureService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure-service/src/main/java/com/azure/serviceimpl/AzureServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/azure-service/src/main/java/com/azure/serviceimpl/AzureServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-details/src/main/java/com/billing/controller/AwsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-details/src/main/java/com/billing/controller/AwsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-details/src/main/java/com/billing/service/AwsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-details/src/main/java/com/billing/service/AwsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-details/src/main/java/com/billing/service/impl/AwsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-details/src/main/java/com/billing/service/impl/AwsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/billing-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-billing-users/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-billing-users/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcp-service/src/main/java/com/gcp/controller/GcpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gcp-service/src/main/java/com/gcp/controller/GcpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcp-service/src/main/java/com/gcp/service/GcpService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gcp-service/src/main/java/com/gcp/service/GcpService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcp-service/src/main/java/com/gcp/serviceimpl/GcpServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gcp-service/src/main/java/com/gcp/serviceimpl/GcpServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2bA1IdXgbkgVtgBpREwMUHewACC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689493b4-7591-410a-beef-1c7a41de7edc" name="Changes" comment="" />
+      <created>1705642991146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705642991146</updated>
+    </task>
+    <servers />
+  </component>
+</project>

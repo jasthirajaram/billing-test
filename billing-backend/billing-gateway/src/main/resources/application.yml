@@ -1,0 +1,45 @@
+spring:
+ cloud:
+   gateway:
+     default-filters:
+        - DedupeResponseHeader=Access-Control-Allow-Credentials Access-Control-Allow-Origin
+     globalcors:
+        corsConfigurations:
+          '[/**]':
+              allowedOrigins: "*"
+              allowedMethods: "*"
+              allowedHeaders: "*"
+     routes:
+       - id: gcp-service
+         uri: lb://GCP-SERVICE
+         predicates:
+           - Path=/gcp/**
+         filters:
+           - AuthenticationFilter
+           
+       - id: azure-service
+         uri: lb://AZURE-SERVICE
+         predicates:
+           - Path=/azure/**
+         filters:
+           - AuthenticationFilter
+           
+       - id: aws-service
+         uri: lb://AWS-SERVICE
+         predicates:
+           - Path=/aws/**
+         filters:
+           - AuthenticationFilter
+           
+       - id: users-service
+         uri: lb://USERS-SERVICE
+         predicates:
+           - Path=/auth/**
+
+ application:
+   name: BILLING-GATEWAY
+
+eureka:
+  client:
+    service-url:
+      defaultZone : http://localhost:8761/eureka/

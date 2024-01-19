@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.dates{
+  height: 36px;
+  outline: none;
+  border: 0.8px solid rgb(42, 30, 30);
+  border-radius: 4px;
+  width: 160px;
+}
+

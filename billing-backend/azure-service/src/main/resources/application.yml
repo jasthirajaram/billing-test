@@ -1,0 +1,12 @@
+server:
+  port: 9072
+
+spring:
+  application:
+    name: AZURE-SERVICE
+  data:
+    mongodb:
+      host: 172.20.100.7
+      port: 27017
+      database: billing_reports
+      

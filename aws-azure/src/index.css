@@ -1,0 +1,115 @@
+.chart-container {
+	/* width: 629px;  */
+
+	  /* width: 100%;
+		overflow: hidden; */
+	height: 280px; 
+	flex-shrink: 0;
+	border-radius: 7px;
+	border: 2px solid rgba(245, 239, 239, 0.5);
+	background: rgb(217, 215, 234);
+	backdrop-filter: blur(70px);
+}
+
+.responsive-chart {
+	width: 100%;
+  }
+ 
+.chart-cont{
+	width:100%;
+	overflow: hidden;
+}  
+
+.chart-pie {
+	/* width: 629px;  */
+	height: 450px; 
+	flex-shrink: 0;
+	border-radius: 7px;
+	border: 2px solid rgba(245, 239, 239, 0.5);
+	background: rgb(217, 215, 234);
+	backdrop-filter: blur(70px);
+}
+
+@media screen and (max-width: 768px) {
+	.chart-cont {
+	  /* Adjust the width for smaller screens */
+	  width: 80%;
+	}
+  }
+  
+  @media screen and (max-width: 480px) {
+	.chart-cont {
+	  /* Further adjust the width for even smaller screens */
+	  width: 90%;
+	}
+  }
+
+
+@media screen and (max-width: 768px) {
+	.chart-container {
+	  /* Adjust styles for smaller screens */
+	  width: 100%;
+	  /* Add other styles as needed */
+	}
+}
+
+/* nav bar backgroung-color*/
+.css-hyum1k-MuiToolbar-root{
+	background-color: rgb(54, 50, 50);
+}
+
+/* side nav backgroung-color*/
+.css-1hsz34s-MuiDrawer-docked .MuiDrawer-paper{
+	background-color: rgb(35, 35, 72);
+}
+
+/* side nav-closed backgroung-color*/
+.css-2dum1v-MuiDrawer-docked .MuiDrawer-paper{
+	background-color: rgb(35, 35, 70);
+}
+
+/* side-nav list */
+.css-slh1fk-MuiListItem-root {
+	color: aliceblue;
+}
+
+/* side-nave logo*/
+.css-i4bv87-MuiSvgIcon-root {
+color: white;
+}
+
+/* Table header */
+.css-1iyq7zh-MuiDataGrid-columnHeaders{
+background-color: beige;
+color: rgb(69, 4, 129);
+
+}
+/* 
+.homecards{
+	text-align: center;
+	
+} */
+
+.felee{
+	text-align: center;
+}
+
+.headtag{
+	text-align: center;
+	padding-top: 0px;
+}
+
+.chart-home{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Add other styles as needed */
+  /* For example, you can set width or max-width for the container */
+  width: 100%;
+  max-width: 1200px; /* Adjust the maximum width as desired */
+  margin: 0 auto;
+}
+
+.css-i4bv87-MuiSvgIcon-root{
+	color:unset;
+}
